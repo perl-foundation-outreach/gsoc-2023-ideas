@@ -29,7 +29,7 @@ In addition, a developer may want Pod information about the functions/methods/cl
 1. Create unit tests
 
 ## Rating
-This is a medium hard project. The coding and algorithms will be simple. Most of the difficulty will be in assembling an undertanding of the Respository management system from existing core modules.
+This is a medium hard project. The coding and algorithms will be simple. Most of the difficulty will be in assembling an understanding of the Respository management system from existing core modules.
 
 ## Mentors
 JJ Merelo, Richard Hainsworth (rnhainsworth@gmail.com), tonyo

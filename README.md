@@ -1,16 +1,11 @@
-![GSoC Logo](https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg)
+![GSoC Logo](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
 # Google Summer of Code ideas page for Perl and Raku projects
 
-<img src="img/tpf_logo_transparent.png" width="300px" align="right" alt="TPF">
+<img src="img/tprf_logo.png" width="300px" align="right" alt="TPRF">
 
-*Mentors!* Head over to the [Perlyglot Mentors Guide](mentors-guide.md)!
-
-
-The Perl Foundation is preparing an application
-for [Google Summer of Code](https://summerofcode.withgoogle.com/)
-2021.
-
+The Perl and Raku Foundation participates in
+[Google Summer of Code](https://summerofcode.withgoogle.com/) 2023.
 This page lists project ideas for Perl, Raku and its related projects.
 
 
@@ -33,9 +28,6 @@ Here's a list of project ideas proposed by the community:
 - [Supporting Pluggable Grammars with Guacamole](perl/Guacamole.md),
   proposed by [Sawyer X](https://github.com/xsawyerx).
 
-- [Tooling for testing and releasing Rakudo
-  Star](raku/rakudo-star-support.md), by [Patrick Spek](https://github.com/Tyil).
-
 - [Raku Inline::Python (3) update](raku/Inline::Python-Update.md) proposed by Stefan Seifert.
 
 - [Raku Add missing encodings to MoarVM](raku/missingencodings.md) proposed by Elizabeth Mattijsen.
@@ -50,10 +42,15 @@ Here's a list of project ideas proposed by the community:
 
 ## How to participate
 
-Each project should idea lists the mentors with their contact
-information at the end. Check out
-the [project template](project_template.md) for its general structure.
+Each project lists the mentors with their contact information at the end.
 
+We encourage you to get in contact with the mentors and the Perl / Raku community as early as
+possible. Talking with the mentors about the projects you are interested in is the fastest way to
+get a good understanding of the project. And that is the most important step for a good application
+and successful project.
+
+If you are a student and have a project idea not listed above, feel free to contact the organization
+administrators and just ask!
 
 ## General information on the initiative
 
@@ -68,7 +65,7 @@ Google offers some very good documentation for Summer of Code. If you haven't al
 ## Contact the Raku community
 
 In general the Raku community is most active on IRC. Just drop by on the
-[#raku](https://webchat.freenode.net/#raku) Freenode channel and say Hello!
+[#raku](https://web.libera.chat/#raku) Freenode channel and say Hello!
 
 If you prefer email, head over to the [mailing lists](https://raku.org/archive/lists/).
 The [perl6-users mailing list](https://www.nntp.perl.org/group/perl.perl6.users/) is the one you
@@ -85,6 +82,7 @@ Perl has its own IRC hosting site, with [this list of channels](http://www.irc.p
 
 ## Contact the Orgainzation Administrators
 
+- Patrick Böker (patrick.boeker@posteo.de / [GitHub](https://github.com/patrickbkr/))
 - JJ Merelo (jjmerelo@gmail.com / [GitHub](https://github.com/JJ))
 - Makoto Nozaki (makoto@perlfoundation.org)
 

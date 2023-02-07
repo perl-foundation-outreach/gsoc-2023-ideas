@@ -30,20 +30,19 @@ GTK-4. This is a vital skill for any good software engineer, and this task will 
 beyond Raku or GTK.
 
 Students will need to have or acquire an understanding of enough C to use Raku's `NativeLibs` 
-interface to the GTK-4 library. The process is 
-far simpler than in many other languages.
+interface to the GTK-4 library. The process is far simpler than in many other languages.
 
 Students will need/acquire an understanding of the Raku language.
 
 Students will need a solid understanding of the OS they use. GTK3 is important in Linux distributions, and GTK4
 is still considered experimental. The GTK development documentation states that GTK3 and GTK4 can be both be installed
-and run on the same mmachine, though a 'flatpak' installation is recommended.
+and run on the same machine, though a 'flatpak' installation is recommended.
 
 
 Rating
 ------
 
-Medium. Some parts of this task will be easy, some will take quite a lot of time (eg., the GTK libraries are large).
+Medium. Some parts of this task will be easy, some will take quite a lot of time (eg. the GTK libraries are large).
 
 
 Possible mentors
