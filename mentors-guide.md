@@ -1,6 +1,6 @@
 # Perlyglot Mentors Guide
 
-This is TPFs guide for people that want to mentor a project in the Perl / Raku ecosystem. It is important to understand the responsibilities becoming a mentor brings about. Google has some excellent documentation about GSoC in general and specifically for mentors.
+This is TPRFs guide for people that want to mentor a project in the Perl / Raku ecosystem. It is important to understand the responsibilities becoming a mentor brings about. Google has some excellent documentation about GSoC in general and specifically for mentors.
 
 - [Googles GSoC Rules](https://summerofcode.withgoogle.com/rules/)
 - [Googles Mentor Guide](https://google.github.io/gsocguides/mentor/)
@@ -22,10 +22,8 @@ have to be removed before this list is submitted to Google.
 Project ideas need to meet certain criteria
 described
 [on this Google page](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list). When
-you use the template you should be good to go. If you have an idea and
-want to discuss it before adding
-anything,
-[discuss it here or add a new issue](https://github.com/perl-foundation-outreach/gsoc-2020-ideas/issues/1).
+you use the template you should be good to go. If you have an idea and want to discuss it before adding anything,
+[add a new issue here](https://github.com/perl-foundation-outreach/gsoc-2023-ideas/issues).
 
 
 ## Becoming a mentor
