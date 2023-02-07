@@ -52,7 +52,7 @@ Google offers some very good documentation for Summer of Code. If you haven't al
 In general the Raku community is most active on IRC. Just drop by on the
 [#raku](https://web.libera.chat/#raku) Freenode channel and say Hello!
 
-If you prefer email, head over to the [mailing lists](https://raku.org/archive/lists/).
+If you prefer email, head over to the [mailing lists](https://raku.org/community/).
 The [perl6-users mailing list](https://www.nntp.perl.org/group/perl.perl6.users/) is the one you
 probably want to use.
 
