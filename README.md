@@ -70,13 +70,11 @@ Perl has its own IRC hosting site, with [this list of channels](http://www.irc.p
 - Patrick Böker <patrick.boeker@posteo.de>
 - Makoto Nozaki <makoto@perlfoundation.org>
 
-## Previous GSoCs
+## Previous GSoC pages
 
-- [2019](https://perl-foundation-outreach.github.io/ideas)
-
-## GSoC proposals that were not funded
-
-- [2020](https://perl-foundation-outreach.github.io/gsoc-2020-ideas)
+- [GSoC 2019](https://perl-foundation-outreach.github.io/ideas)
+- [GSoC 2020](https://perl-foundation-outreach.github.io/gsoc-2020-ideas)
+- [GSoC 2021](https://perl-foundation-outreach.github.io/gsoc-2021-ideas)
 
 
 ## Mentors
