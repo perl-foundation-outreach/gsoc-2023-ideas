@@ -25,4 +25,5 @@ I think this is a hard project, as it would require deep internals MoarVM knowle
 Possible mentors
 ----------------
 
-Elizabeth Mattijsen, Jonathan Worthington, Daniel Green.
+- Elizabeth Mattijsen <liz@dijkmat.nl>, lizmat on IRC (#raku on libera.chat)
+

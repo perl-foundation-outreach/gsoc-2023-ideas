@@ -36,4 +36,4 @@ Medium.
 Possible mentors
 ----------------
 
-Stefan Seifert <nine@detonation.org>
+- Stefan Seifert <nine@detonation.org>, nine on IRC (#raku on libera.chat)

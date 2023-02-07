@@ -169,4 +169,5 @@ I think this is a medium hard project, as many encodings *are* already supported
 Possible mentors
 ----------------
 
-Elizabeth Mattijsen, Jonathan Worthington, Daniel Green, Samantha McVey
+- Elizabeth Mattijsen <liz@dijkmat.nl>, lizmat on IRC (#raku on libera.chat)
+

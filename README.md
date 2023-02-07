@@ -13,32 +13,17 @@ This page lists project ideas for Perl, Raku and its related projects.
 
 Here's a list of project ideas proposed by the community:
 
-- [Raku: libgccjit backend for MoarVM's Just In Time compiler](raku/libgccjit-backend.md),
-  proposed by Stefan Seifert.
+- [Raku: MIR backend for MoarVM's Just In Time compiler](raku/mir-backend.md)
 
-- [Raku: GTK4 bindings for Raku](raku/gtk-4-bindings.md), proposed by
-  Richard Hainsworth.
+- [gRPC client for Raku](raku/gRPC.md)
 
-- [Randas: A Raku data analysis library](raku/randas.md), proposed
-  by [JJ Merelo](https://github.com/JJ)
+- [Raku Inline::Python (3) update](raku/Inline::Python-Update.md)
 
-- [gRPC client for Raku](raku/gRPC.md), also proposed
-  by [JJ Merelo](https://github.com/JJ).
+- [Raku Add missing encodings to MoarVM](raku/missingencodings.md)
 
-- [Supporting Pluggable Grammars with Guacamole](perl/Guacamole.md),
-  proposed by [Sawyer X](https://github.com/xsawyerx).
+- [Raku Add native small integer support to MoarVM](raku/nibbles.md)
 
-- [Raku Inline::Python (3) update](raku/Inline::Python-Update.md) proposed by Stefan Seifert.
-
-- [Raku Add missing encodings to MoarVM](raku/missingencodings.md) proposed by Elizabeth Mattijsen.
-
-- [Raku Add native small integer support to MoarVM](raku/nibbles.md) proposed by Elizabeth Mattijsen.
-
-- [Raku Module Chain Introspection](raku/rakumods.md) proposed by JJ Merelo, Richard Hainsworth.
-
-- [Ravada Snapshots](perl/Ravada-Snapshots.md), by [Francesc Guasch](https://github.com/frankiejol).
-
-- [Pull Request Club](perl/PullRequestClub.md), by [Kivanc Yazan](https://github.com/kyzn).
+- [Raku Module Chain Introspection](raku/rakumods.md)
 
 ## How to participate
 

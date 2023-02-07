@@ -22,8 +22,10 @@ A reasonable familiarity with Raku, Python 3 and maybe C and an interest in how 
 
 Rating
 ------
+
 medium
 
 Possible mentors
 ----------------
-Stefan Seifert <nine@detonation.org> - the author of Inline::Perl5 and Inline::Python.
+
+- Stefan Seifert <nine@detonation.org>, nine on IRC (#raku on libera.chat) - the author of Inline::Perl5 and Inline::Python.
