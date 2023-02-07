@@ -67,9 +67,8 @@ Perl has its own IRC hosting site, with [this list of channels](http://www.irc.p
 
 ## Contact the Orgainzation Administrators
 
-- Patrick Böker (patrick.boeker@posteo.de / [GitHub](https://github.com/patrickbkr/))
-- JJ Merelo (jjmerelo@gmail.com / [GitHub](https://github.com/JJ))
-- Makoto Nozaki (makoto@perlfoundation.org)
+- Patrick Böker <patrick.boeker@posteo.de>
+- Makoto Nozaki <makoto@perlfoundation.org>
 
 ## Previous GSoCs
 
