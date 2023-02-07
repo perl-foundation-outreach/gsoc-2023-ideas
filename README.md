@@ -2,7 +2,7 @@
 
 # Google Summer of Code ideas page for Perl and Raku projects
 
-<img src="img/tprf_logo.png" width="300px" align="right" alt="TPRF">
+<img src="img/tprf_logo_transparent.png" width="300px" align="right" alt="TPRF">
 
 The Perl and Raku Foundation participates in
 [Google Summer of Code](https://summerofcode.withgoogle.com/) 2023.
