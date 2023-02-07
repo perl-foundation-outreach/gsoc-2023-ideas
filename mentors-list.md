@@ -10,6 +10,5 @@ proposal is funded.
 - Stefan Seifert <nine@detonation.org>, nine on IRC (#raku on libera.chat)
 - Will "Coke" Coleda <will@coleda.com>, [Coke] on IRC (#raku on libera.chat)
 - JJ Merelo <jjmerelo@gmail.com>, jmerelo on IRC (#raku on libera.chat)
-- Elizabeth Mattijsen <liz@dijkmat.nl>, lizmat on IRC (#raku on libera.chat)
 - Tony O'Dell <tony.odell@live.com>, tonyo on IRC (#raku on libera.chat)
 
