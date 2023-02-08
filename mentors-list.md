@@ -12,4 +12,5 @@ proposal is funded.
 - JJ Merelo <jjmerelo@gmail.com>, jmerelo on IRC (#raku on libera.chat)
 - Elizabeth Mattijsen <liz@dijkmat.nl>, lizmat on IRC (#raku on libera.chat)
 - Tony O'Dell <tony.odell@live.com>, tonyo on IRC (#raku on libera.chat)
+- Daniel Green <ddgreen@gmail.com>, MasterDuke on IRC (#raku on libera.chat)
 
