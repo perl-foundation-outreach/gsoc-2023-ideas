@@ -19,6 +19,10 @@ Here's a list of project ideas proposed by the community:
 
 - [Raku Inline::Python (3) update](raku/Inline::Python-Update.md)
 
+- [Raku Add missing encodings to MoarVM](raku/missingencodings.md)
+
+- [Raku Add native small integer support to MoarVM](raku/nibbles.md)
+
 - [Raku Module Chain Introspection](raku/rakumods.md)
 
 ## How to participate
