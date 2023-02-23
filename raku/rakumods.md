@@ -36,7 +36,7 @@ Required skills
 Rating
 ------
 
-This is a medium hard project. The coding and algorithms will be simple. Most of the difficulty will be in assembling an understanding of the Respository management system from existing core modules.
+This is a medium hard project. The coding and algorithms will be simple. Most of the difficulty will be in assembling an understanding of the Repository management system from existing core modules.
 
 Possible mentors
 ----------------
